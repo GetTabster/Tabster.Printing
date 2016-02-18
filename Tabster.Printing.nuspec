@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Tabster.Printing</id>
+    <version>1.0</version>
+    <title>Tabster.Printing</title>
+    <authors>Nate Shoffner</authors>
+    <owners>Nate Shoffner</owners>
+    <licenseUrl>https://github.com/GetTabster/Tabster.Printing/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/GetTabster/Tabster.Printing</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description> Tabster printing functionality.  </description>
+    <releaseNotes>* Initial deployment.</releaseNotes>
+    <copyright>Copyright Nate Shoffner 2016</copyright>
+    <tags>tabster</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\Tabster.Printing.dll" target="lib\net35\Tabster.Printing.dll" />
+    <file src="bin\Release\Tabster.Printing.XML" target="lib\net35\Tabster.Printing.XML" />
+  </files>
+</package>
